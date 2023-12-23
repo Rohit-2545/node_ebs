@@ -1,0 +1,28 @@
+{
+  "name": "node_ebs",
+  "version": "1.0.0",
+  "description": "testing for load balancer",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rohit-2545/node_ebs.git"
+  },
+  "keywords": [
+    "npm",
+    "start"
+  ],
+  "author": "Savan Italiya Adwitiya Infotech Pvt. Ltd.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rohit-2545/node_ebs/issues"
+  },
+  "homepage": "https://github.com/Rohit-2545/node_ebs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
